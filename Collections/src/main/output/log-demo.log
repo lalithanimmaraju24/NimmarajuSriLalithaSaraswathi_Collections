@@ -1,0 +1,66 @@
+2020-03-07 06:03:513 INFO  Client:25 - Initially The Elements in the list are:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2020-03-07 06:03:513 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:579 INFO  Client:33 - .....You exited.....
+2020-03-07 06:03:773 INFO  Client:25 - Initially The Elements in the list are:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2020-03-07 06:03:773 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:395 INFO  Client:80 - The Elements in the list are:
+2020-03-07 06:03:398 INFO  Client:81 - [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2020-03-07 06:03:399 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:253 INFO  Client:44 - Enter element:
+2020-03-07 06:03:591 INFO  Client:47 - Before adding the element:
+The List is:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2020-03-07 06:03:591 INFO  Client:50 - You Successfully added the element into the list
+2020-03-07 06:03:593 INFO  Client:51 - After adding the element:
+The List is:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2020-03-07 06:03:593 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:226 INFO  Client:55 - Enter the element that you have to remove the element from the list:
+2020-03-07 06:03:751 INFO  Client:57 - Before removing the element:
+The List is:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2020-03-07 06:03:751 INFO  Client:64 - Sorry! There is no such element in the list.Try Again.
+2020-03-07 06:03:755 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:57 INFO  Client:55 - Enter the element that you have to remove the element from the list:
+2020-03-07 06:03:49 INFO  Client:57 - Before removing the element:
+The List is:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2020-03-07 06:03:49 INFO  Client:60 - yes.The Element 10 is removed from the list
+2020-03-07 06:03:53 INFO  Client:61 - After removing the element:
+The List is:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2020-03-07 06:03:53 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:749 INFO  Client:80 - The Elements in the list are:
+2020-03-07 06:03:749 INFO  Client:81 - [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2020-03-07 06:03:753 INFO  Client:29 - Enter choice
+1.Add
+2.Remove
+3.Fetch
+4.Print
+5.exit
+2020-03-07 06:03:397 INFO  Client:33 - .....You exited.....
